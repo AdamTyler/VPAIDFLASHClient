@@ -18,9 +18,7 @@
     "tests",
     "demo"
   ],
-  "dependencies": {
-    "swfobject": "MailOnline/swfobject"
-  },
+  "dependencies": {},
   "homepage": "https://github.com/MailOnline/VPAIDFLASHClient",
   "keywords": [
     "VPAID",
