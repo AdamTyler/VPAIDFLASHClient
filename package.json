@@ -3,7 +3,7 @@
   "version": "1.0.2",
   "author": "Luis da Silva <luis.dasilva@mailonline.co.uk>",
   "homepage": "https://github.com/MailOnline/VPAIDFLASHClient",
-  "main": "js/VPAIDFLASHClient.js",
+  "main": "bin/VPAIDFLASHClient.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/MailOnline/VPAIDFLASHClient.git"
