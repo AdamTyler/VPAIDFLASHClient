@@ -1,9 +1,9 @@
 {
   "name": "vpaid-flash-client",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "author": "Luis da Silva <luis.dasilva@mailonline.co.uk>",
   "homepage": "https://github.com/MailOnline/VPAIDFLASHClient",
-  "main": "bin/VPAIDFLASHClient.js",
+  "main": "js/es5_VPAIDFLASHClient.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/MailOnline/VPAIDFLASHClient.git"
